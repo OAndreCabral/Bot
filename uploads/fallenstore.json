@@ -1,0 +1,405 @@
+{
+  "?xml": "",
+  "nfeProc": {
+    "NFe": {
+      "infNFe": {
+        "ide": {
+          "cUF": 35,
+          "cNF": 215514,
+          "natOp": "VENDA DE MERCADORIA COM IPI",
+          "mod": 55,
+          "serie": 2,
+          "nNF": 184919,
+          "dhEmi": "2023-12-02T09:54:32-03:00",
+          "tpNF": 1,
+          "idDest": 2,
+          "cMunFG": 3518800,
+          "tpImp": 1,
+          "tpEmis": 1,
+          "cDV": 6,
+          "tpAmb": 1,
+          "finNFe": 1,
+          "indFinal": 1,
+          "indPres": 2,
+          "indIntermed": 0,
+          "procEmi": 0,
+          "verProc": "M08"
+        },
+        "emit": {
+          "CNPJ": 21293585000155,
+          "xNome": "FALLEN COMERCIO E SERVICOS DE GAMES LTDA",
+          "xFant": "FALLEN STORE",
+          "enderEmit": {
+            "xLgr": "RUA ASTROGILDO LUCAS GARCIA",
+            "nro": 84,
+            "xBairro": "JARDIM ADRIANA",
+            "cMun": 3518800,
+            "xMun": "GUARULHOS",
+            "UF": "SP",
+            "CEP": 7135070,
+            "cPais": 1058,
+            "xPais": "BRASIL",
+            "fone": 1127883023
+          },
+          "IE": 796308763117,
+          "CRT": 3
+        },
+        "dest": {
+          "CPF": 6495139918,
+          "xNome": "ANDRE CABRAL",
+          "enderDest": {
+            "xLgr": "RUA MANOEL SILVERIO PEREIRA",
+            "nro": 849,
+            "xCpl": "CASA",
+            "xBairro": "JARDIM BANDEIRANTES",
+            "cMun": 4104303,
+            "xMun": "CAMPO MOURAO",
+            "UF": "PR",
+            "CEP": 87308505,
+            "cPais": 1058,
+            "xPais": "BRASIL",
+            "fone": 44988317372
+          },
+          "indIEDest": 9,
+          "email": "ANDRE_KBRAL@HOTMAIL.COM"
+        },
+        "det": [
+          {
+            "prod": {
+              "cProd": "MB-GF-TU-AZ",
+              "cEAN": 7908185700148,
+              "xProd": "MOUSE BUNGEE FALLEN TUCANO AZUL AZUL",
+              "NCM": 84733090,
+              "CEST": 2805800,
+              "indEscala": "S",
+              "CFOP": 6108,
+              "uCom": "UN",
+              "qCom": 1,
+              "vUnCom": 51.1174,
+              "vProd": 51.12,
+              "cEANTrib": 7908185700148,
+              "uTrib": "UN",
+              "qTrib": 1,
+              "vUnTrib": 51.1174,
+              "vFrete": 5.01,
+              "vDesc": 2.56,
+              "indTot": 1,
+              "xPed": "FS220584",
+              "nItemPed": 1
+            },
+            "imposto": {
+              "vTotTrib": 20.36,
+              "ICMS": {
+                "ICMS00": {
+                  "orig": 2,
+                  "CST": 0,
+                  "modBC": 3,
+                  "vBC": 57.06,
+                  "pICMS": 4,
+                  "vICMS": 2.28
+                }
+              },
+              "IPI": {
+                "cEnq": 999,
+                "IPITrib": {
+                  "CST": 50,
+                  "vBC": 53.57,
+                  "pIPI": 6.5,
+                  "vIPI": 3.49
+                }
+              },
+              "PIS": {
+                "PISAliq": {
+                  "CST": 1,
+                  "vBC": 51.29,
+                  "pPIS": 1.65,
+                  "vPIS": 0.85
+                }
+              },
+              "COFINS": {
+                "COFINSAliq": {
+                  "CST": 1,
+                  "vBC": 51.29,
+                  "pCOFINS": 7.6,
+                  "vCOFINS": 3.9
+                }
+              },
+              "ICMSUFDest": {
+                "vBCUFDest": 57.06,
+                "vBCFCPUFDest": 57.06,
+                "pFCPUFDest": 0,
+                "pICMSUFDest": 19,
+                "pICMSInter": 4,
+                "pICMSInterPart": 100,
+                "vFCPUFDest": 0,
+                "vICMSUFDest": 8.56,
+                "vICMSUFRemet": 0
+              }
+            },
+            "infAdProd": "FS220584|0001"
+          },
+          {
+            "prod": {
+              "cProd": "TE-FN-PA-ECO",
+              "cEAN": 7908185702364,
+              "xProd": "TECLADO GAMER FALLEN PANTERA ECO PRETO",
+              "NCM": 84716052,
+              "CEST": 2806100,
+              "indEscala": "S",
+              "CFOP": 6108,
+              "uCom": "UN",
+              "qCom": 1,
+              "vUnCom": 130.5968,
+              "vProd": 130.6,
+              "cEANTrib": 7908185702364,
+              "uTrib": "UN",
+              "qTrib": 1,
+              "vUnTrib": 130.5968,
+              "vFrete": 12.79,
+              "vDesc": 6.54,
+              "indTot": 1,
+              "xPed": "FS220584",
+              "nItemPed": 2
+            },
+            "imposto": {
+              "vTotTrib": 56.82,
+              "ICMS": {
+                "ICMS00": {
+                  "orig": 7,
+                  "CST": 0,
+                  "modBC": 3,
+                  "vBC": 150.19,
+                  "pICMS": 12,
+                  "vICMS": 18.02
+                }
+              },
+              "IPI": {
+                "cEnq": 999,
+                "IPITrib": {
+                  "CST": 50,
+                  "vBC": 136.85,
+                  "pIPI": 9.75,
+                  "vIPI": 13.34
+                }
+              },
+              "PIS": {
+                "PISAliq": {
+                  "CST": 1,
+                  "vBC": 118.83,
+                  "pPIS": 1.65,
+                  "vPIS": 1.96
+                }
+              },
+              "COFINS": {
+                "COFINSAliq": {
+                  "CST": 1,
+                  "vBC": 118.83,
+                  "pCOFINS": 7.6,
+                  "vCOFINS": 9.03
+                }
+              },
+              "ICMSUFDest": {
+                "vBCUFDest": 150.19,
+                "vBCFCPUFDest": 150.19,
+                "pFCPUFDest": 0,
+                "pICMSUFDest": 19,
+                "pICMSInter": 12,
+                "pICMSInterPart": 100,
+                "vFCPUFDest": 0,
+                "vICMSUFDest": 10.52,
+                "vICMSUFRemet": 0
+              }
+            },
+            "infAdProd": "FS220584|0002"
+          },
+          {
+            "prod": {
+              "cProd": "MP-CS-ME-SMM-GR",
+              "cEAN": 7908185702197,
+              "xProd": "MOUSEPAD GAMER FALLEN CS:GO MEDUSA - SPEED++ GRANDE AZUL",
+              "NCM": 40169990,
+              "CEST": 2805700,
+              "indEscala": "S",
+              "CFOP": 6108,
+              "uCom": "UN",
+              "qCom": 1,
+              "vUnCom": 128.3169,
+              "vProd": 128.32,
+              "cEANTrib": 7908185702197,
+              "uTrib": "UN",
+              "qTrib": 1,
+              "vUnTrib": 128.3169,
+              "vFrete": 12.56,
+              "vDesc": 6.42,
+              "indTot": 1,
+              "xPed": "FS220584",
+              "nItemPed": 3
+            },
+            "imposto": {
+              "vTotTrib": 61.48,
+              "ICMS": {
+                "ICMS00": {
+                  "orig": 1,
+                  "CST": 0,
+                  "modBC": 3,
+                  "vBC": 150.19,
+                  "pICMS": 4,
+                  "vICMS": 6.01
+                }
+              },
+              "IPI": {
+                "cEnq": 999,
+                "IPITrib": {
+                  "CST": 50,
+                  "vBC": 134.46,
+                  "pIPI": 11.7,
+                  "vIPI": 15.73
+                }
+              },
+              "PIS": {
+                "PISAliq": {
+                  "CST": 1,
+                  "vBC": 128.45,
+                  "pPIS": 1.65,
+                  "vPIS": 2.12
+                }
+              },
+              "COFINS": {
+                "COFINSAliq": {
+                  "CST": 1,
+                  "vBC": 128.45,
+                  "pCOFINS": 7.6,
+                  "vCOFINS": 9.76
+                }
+              },
+              "ICMSUFDest": {
+                "vBCUFDest": 150.19,
+                "vBCFCPUFDest": 150.19,
+                "pFCPUFDest": 0,
+                "pICMSUFDest": 19,
+                "pICMSInter": 4,
+                "pICMSInterPart": 100,
+                "vFCPUFDest": 0,
+                "vICMSUFDest": 22.53,
+                "vICMSUFRemet": 0
+              }
+            },
+            "infAdProd": "FS220584|0003"
+          }
+        ],
+        "total": {
+          "ICMSTot": {
+            "vBC": 357.44,
+            "vICMS": 26.31,
+            "vICMSDeson": 0,
+            "vFCPUFDest": 0,
+            "vICMSUFDest": 41.61,
+            "vICMSUFRemet": 0,
+            "vFCP": 0,
+            "vBCST": 0,
+            "vST": 0,
+            "vFCPST": 0,
+            "vFCPSTRet": 0,
+            "vProd": 310.04,
+            "vFrete": 30.36,
+            "vSeg": 0,
+            "vDesc": 15.52,
+            "vII": 0,
+            "vIPI": 32.56,
+            "vIPIDevol": 0,
+            "vPIS": 4.93,
+            "vCOFINS": 22.69,
+            "vOutro": 0,
+            "vNF": 357.44,
+            "vTotTrib": 138.66
+          }
+        },
+        "transp": {
+          "modFrete": 0,
+          "transporta": {
+            "CNPJ": 34028316003129,
+            "xNome": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS -ECT",
+            "IE": 112388853119,
+            "xEnder": "RUA ASTROGILDO LUCAS GARCIA, 84",
+            "xMun": "GUARULHOS",
+            "UF": "SP"
+          },
+          "vol": {
+            "qVol": 1,
+            "esp": "VOLUMES",
+            "nVol": 1,
+            "pesoL": 2.3,
+            "pesoB": 2.3
+          }
+        },
+        "cobr": {
+          "fat": {
+            "nFat": 184919,
+            "vOrig": 357.44,
+            "vDesc": 0,
+            "vLiq": 357.44
+          },
+          "dup": {
+            "nDup": 1,
+            "dVenc": "2023-12-02",
+            "vDup": 357.44
+          }
+        },
+        "pag": {
+          "detPag": {
+            "indPag": 0,
+            "tPag": 4,
+            "vPag": 357.44,
+            "card": {
+              "tpIntegra": 2,
+              "tBand": 99
+            }
+          }
+        },
+        "infAdic": {
+          "infCpl": "IMPOSTOS PAGOS (FEDERAL  R$ 85.65, ESTADUAL  R$ 53.01, TOTAL R$ 138.66)       FONTE: IBPT/EMPRESOMETRO.COM.BR  VERSAO: 23.1.G  CHAVE: 75B7F2|TOTAL DO ICMS INTERESTADUAL PARA A UF DO DESTINATARIO: 41.61|TOTAL DO ICMS INTERESTADUAL PARA A UF DO REMETENTE: 0.00"
+        },
+        "infRespTec": {
+          "CNPJ": 73831265000105,
+          "xContato": "SANDRO SILVA",
+          "email": "sandro@millennium.com.br",
+          "fone": 1130506300
+        }
+      },
+      "Signature": {
+        "SignedInfo": {
+          "CanonicalizationMethod": "",
+          "SignatureMethod": "",
+          "Reference": {
+            "Transforms": {
+              "Transform": [
+                "",
+                ""
+              ]
+            },
+            "DigestMethod": "",
+            "DigestValue": "shY7+mQtNhsN5ajtIogzsmfo4ds="
+          }
+        },
+        "SignatureValue": "llAc4D2+zdvdOkCAoDaE8pklAR65bl+KendhIUyQKrMlVARhc6od8tyEwLkjxegbSqxuKap7i+iMizepyMBxCL4ELRatBvJN8oHBUFvaEnbXI/N//vUnXS1eLYtzFOcLtE9z4fRp7JKwb+4adkOsgmILs5rHTyNtHN3fshUbtaqLRjGXrb4jx8Ad8wBZxBrluA13Tdb17JwUzjbGpRifDvUEobxSLvR8eKhxTARW+Dt7q5WZS6zPIhYm3fqEwE51Z6rRfv+iOxF6hHKZzsStaGiySQuD2ab9Nr+xUW3M0cf/NQKp3RBX9H9jbfjfmpx1e1rMk8z+pUDWaLN3I07ybg==",
+        "KeyInfo": {
+          "X509Data": {
+            "X509Certificate": "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"
+          }
+        }
+      }
+    },
+    "protNFe": {
+      "infProt": {
+        "tpAmb": 1,
+        "verAplic": "SP_NFE_PL009_V4",
+        "chNFe": 3.5231221293585e+43,
+        "dhRecbto": "2023-12-02T09:54:35-03:00",
+        "nProt": 135232115279415,
+        "digVal": "shY7+mQtNhsN5ajtIogzsmfo4ds=",
+        "cStat": 100,
+        "xMotivo": "Autorizado o uso da NF-e"
+      }
+    }
+  }
+}
